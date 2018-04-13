@@ -1,0 +1,19 @@
+{
+  "name": "entity-generator",
+  "version": "1.0.0",
+  "description": "从mysql|oracle等数据库生成entity实体",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "entity",
+    "generator",
+    "mysql",
+    "MySql",
+    "MySQL",
+    "Oracle"
+  ],
+  "author": "chhenghua",
+  "license": "ISC"
+}
