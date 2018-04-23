@@ -1,0 +1,39 @@
+{
+  "parserOptions": {
+    "ecmaVersion": 8,
+    "sourceType": "module",
+    "ecmaFeatures": {
+      "impliedStrict": true
+    }
+  },
+  "rules": {
+    "no-dupe-args": "error",
+    "no-duplicate-case": "error",
+    "no-extra-semi": "error",
+    "no-unreachable": "error",
+    "use-isnan": "error",
+    "eqeqeq": ["error", "always"],
+    "no-multi-spaces": "error",
+    "no-redeclare": "error",
+    "no-unused-vars": "error",
+    "no-use-before-define": "error",
+    "array-bracket-spacing": ["error", "always"],
+    "comma-spacing": ["error", {"before": false, "after": true}],
+    "eol-last": ["error", "always"],
+    "indent": ["error", 4, {"SwitchCase": 1}],
+    "key-spacing": ["error", {"afterColon": true}],
+    "no-mixed-spaces-and-tabs": "error",
+    "no-multiple-empty-lines": "error",
+    "no-trailing-spaces": "error",
+    "quotes": ["error", "single", {"allowTemplateLiterals": true}],
+    "semi": ["error", "always"],
+    "space-infix-ops": "error",
+    "switch-colon-spacing": "error",
+//    "no-undef": "error",
+    "no-var": "error",
+    "arrow-body-style": ["error", "always"],
+    "arrow-parens": ["error", "as-needed"],
+    "no-dupe-class-members": "error",
+    "no-duplicate-imports": "error"
+  }
+}
